@@ -20,8 +20,7 @@
 <ul>
   <li>typescript</li>
   <li>jest</li>
-  <li>web-vitals</li>
- 
+
 </ul>
 
 <br>
