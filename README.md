@@ -18,9 +18,9 @@
 <h1>🔧 Dependencias</h1>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>typescript</li>
+  <li>jest</li>
+  <li>web-vitals</li>
  
 </ul>
 
