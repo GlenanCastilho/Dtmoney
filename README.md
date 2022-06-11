@@ -11,7 +11,7 @@
 
 <h1>📃 Sobre</h1>
  
-<h4 align="justify">Sistema de organização financeira desenvolvido no Chapter II da trilha de ReactJS do Ignite da Rocketseat</h4>
+<h4 align="justify">Sistema de organização financeira desenvolvido no Chapter II da trilha de ReactJS do Ignite da Rocketseat, utilizando conceitos e ferramentas importantes do ecossistema React como Styled Components, MirageJS, Context API, hooks, Axios e muito mais.</h4>
 
 <br>
 
